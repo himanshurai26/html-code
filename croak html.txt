@@ -1,0 +1,12 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>croak gaming</title>
+</head>
+<body>
+<h1>this one is first web pages</h1>
+
+<p>hello himanshu!</p>
+
+</body>
+</html>
